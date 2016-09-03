@@ -1,4 +1,3 @@
-layout_spectrum: 0.5026925918646157
 typography_spectrum: 0.45204227417707443
 color:
   brandStrength: 0.4488177627790719
@@ -11,4 +10,6 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.5026925918646157
 name: reckless sageness
+title: This is an awesome headline
